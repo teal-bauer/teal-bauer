@@ -46,10 +46,26 @@ Part of [c3lingo](https://c3lingo.org), providing live interpretation at Chaos C
 ### 🧰 CLI Tools
 
 - [wikitool](https://github.com/teal-bauer/wikitool): Query Wikipedia from the terminal
+- [wikitool-skill](https://github.com/teal-bauer/wikitool-skill): Claude Code skill for fetching and searching Wikipedia with wikitool
 - [specter](https://github.com/teal-bauer/specter): CLI for the Ghost Admin API
+
+### Day One to Obsidian
+
+- [dayone-to-obsidian](https://github.com/teal-bauer/dayone-to-obsidian): Convert Day One journal exports to Obsidian-compatible Markdown (Ruby)
+- [dayone-to-obsidian-js](https://github.com/teal-bauer/dayone-to-obsidian-js): Browser-based Day One to Obsidian converter
+
+### Starsong Libraries and Tools
+
+- [moco-ruby](https://github.com/starsong-consulting/moco-ruby): Ruby client for the MOCO API
+- [moco-synthesizer](https://github.com/starsong-consulting/moco-synthesizer): Generate synthetic data for MOCO test instances
+- [epp-ruby](https://github.com/starsong-consulting/epp-ruby): Ruby implementation of EPP for domain registration and management
+- [epp_client-autodns](https://github.com/starsong-consulting/epp_client-autodns): AutoDNS registry extension for epp-ruby
+- [epp_client-isnic](https://github.com/starsong-consulting/epp_client-isnic): ISNIC registry extension for epp-ruby
+- [autodns-domainrobot_api-gem](https://github.com/starsong-consulting/autodns-domainrobot_api-gem): Ruby client for the InternetX AutoDNS Domain Robot REST API
 
 ## Selected Contributions
 
+- [radio-gaga](https://github.com/rescoot/radio-gaga): Scooter telemetry, Telegram notifications, and MQTT fixes
 - [stalwart](https://github.com/stalwartlabs/stalwart): Mail server fixes
 - [weg-li](https://github.com/weg-li/weg-li): Bike lane enforcement platform
 - [transcribee](https://github.com/bugbakery/transcribee): Transcription tool
