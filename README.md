@@ -63,7 +63,15 @@ Part of [c3lingo](https://c3lingo.org), providing live interpretation at Chaos C
 - [epp_client-isnic](https://github.com/starsong-consulting/epp_client-isnic): ISNIC registry extension for epp-ruby
 - [autodns-domainrobot_api-gem](https://github.com/starsong-consulting/autodns-domainrobot_api-gem): Ruby client for the InternetX AutoDNS Domain Robot REST API
 
-## Selected Contributions
+## Contributed To
+
+- [Beans](https://github.com/hmans/beans): Dependency handling and CLI improvements
+- [Kamal](https://github.com/basecamp/kamal): Proxy configuration value equality
+- [mail-parser](https://github.com/stalwartlabs/mail-parser): HTML-to-text parsing fix
+- [flutter_i18n](https://github.com/ilteoood/flutter_i18n): Locale fallback improvements
+- [FlutterToast](https://github.com/ponnamkarthik/FlutterToast): Logging fixes
+- [Tunu firmware](https://github.com/Zanooda/tunu-fw) and [configs](https://github.com/Zanooda/tunu-configs): Temperature calibration and ECU telemetry
+- [Cult of the Lamb save editor](https://github.com/xsavegame/cultofthelamb): MessagePack save support
 
 - [radio-gaga](https://github.com/rescoot/radio-gaga): Scooter telemetry, Telegram notifications, and MQTT fixes
 - [stalwart](https://github.com/stalwartlabs/stalwart): Mail server fixes
