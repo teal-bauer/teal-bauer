@@ -1,10 +1,10 @@
 ## Hi, I'm Teal 👋
 
-Open source developer and consultant in Berlin. I build tools for reverse engineering, scooter hacking, and community infrastructure. Polyglot across Go, Rust, Python, Ruby, TypeScript, and Flutter. For hire: development, architecture, consulting, design. Once proposed a goose to Unicode. :goose:
+Open source developer and consultant in Berlin. I build tools for reverse engineering, scooter hacking, and community infrastructure. Polyglot across Go, Rust, Python, Ruby, TypeScript, and Flutter. For hire: development, architecture, [consulting](https://starsong.consulting), [design](https://starsong.design). Once proposed a goose to Unicode. :goose:
 
 ## Projects
 
-### 🛵 [LibreScoot](https://github.com/librescoot)
+### 🛵 [Librescoot](https://github.com/librescoot)
 
 Open-source firmware and services for the unu Scooter Pro. Go microservices, Flutter dashboard, Yocto Linux, CAN bus, NFC, the whole stack. I contribute across frontend, services, embedded, docs, and tooling.
 
@@ -36,7 +36,7 @@ Part of [c3lingo](https://c3lingo.org), providing live interpretation at Chaos C
 ### 🏛️ Civic Tech
 
 - [Quellenportal](https://quellenportal.de): Search across 600k+ German Federal Archives holdings
-- MeinBezirk.app (coming soon)
+- [MeinBezirk.app](https://meinbezirk.app/) (coming soon)
 
 ### 🚀 Elite: Dangerous
 
